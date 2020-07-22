@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+*.vim
+node_modules
+tags
+
+debian/files
