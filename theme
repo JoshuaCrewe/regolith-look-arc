@@ -1,6 +1,6 @@
 #define gtk_theme           Arc
 #define icon_theme          Arc
-#define desktop_wallpaper   /usr/share/backgrounds/peter-fogden-Jx5IB1f5-4w-unsplash.jpg
+#define desktop_wallpaper   /usr/share/backgrounds/glacier-869593_1920.jpg
 #define rofi_theme          /etc/regolith/styles/arc/rofi.rasi
 #define theme_terminal_scrollbar never
 
