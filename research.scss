@@ -1,0 +1,80 @@
+// GTK Theme colours
+
+$warning_color: #F27835;
+$error_color: #FC4138;
+$warning_fg_color: white;
+$error_fg_color: white;
+$success_color: #73d216;
+$destructive_color: #F04A50;
+$suggested_color: #4DADD4;
+$destructive_fg_color: white;
+$suggested_fg_color: white;
+
+$drop_target_color: #F08437;
+
+// Light
+::root {
+    color: #ffffff; // Base
+    color: #5c616c; // text
+    color: #F5F6F7; // background
+    color: #5c616c; // foreground
+    color: #ffffff; // Selected Foreground
+    color: #5294e2; // Selected background
+
+}
+
+// dark
+::root {
+    color: #404552; // Base
+    color: #D3DAE3; // text
+    color: #383C4A; // background
+    color: #D3DAE3; // foreground
+    color: #ffffff; // Selected Foreground
+    color: #5294e2; // Selected background
+}
+
+
+// Nord colors
+::root {
+    color: #2E3440;
+    color: #3B4252;
+    color: #434C5E;
+    color: #7B8394;
+    color: #D8DEE9;
+    color: #E5E9F0;
+    color: #ECEFF4;
+    color: #ECEFF4;
+    color: #EBCB8B;
+    color: #D08770;
+    color: #BF616A;
+    color: #5E81AC;
+    color: #B48EAD;
+    color: #81A1C1;
+    color: #88C0D0;
+    color: #A3BE8C;
+}
+
+// Gnome terminal theme
+::root {
+    color: #262b36; // 0
+    color: #9c3528; // 1
+    color: #61bc3b; // 2
+    color: #f3b43a; // 3
+    color: #0d68a8; // 4
+    color: #744560; // 5
+    color: #288e9c; // 6
+    color: #a2a2a2;
+    color: #2f343f;
+    color: #d64937;
+    color: #86df5d;
+    color: #fdd75a;
+    color: #0f75bd;
+    color: #9e5e83;
+    color: #37c3d6;
+    color: #f9f9f9;
+
+    background: #2f343f;
+    foreground: #f3f4f5;
+    bold: #f3f4f5;
+}
+
